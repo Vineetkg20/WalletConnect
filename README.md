@@ -83,7 +83,3 @@ console.log("Connected wallet address:", address);
 ### Contributing
 
 Contributions to the **Wallet Connect Project** are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
-
-### License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
